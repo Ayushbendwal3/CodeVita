@@ -1,2 +1,2 @@
-# CodeVita-
+# CodeVita
 CodeVita Practice Questions
