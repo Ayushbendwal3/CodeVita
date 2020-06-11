@@ -1,3 +1,5 @@
+#With Numpy Array 
+
 import numpy as np
 
 n = int(input())
